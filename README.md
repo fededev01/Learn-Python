@@ -1,6 +1,6 @@
 # Learn-Python
 This repository is created to teach to new users to develop 
-In Java. 
+In Python. 
 
 At the moment the repository includes the following concepts:
 
