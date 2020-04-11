@@ -2,7 +2,7 @@
 This repository is created to teach to new users to develop 
 In Java. 
 
-At the moment the repository includes the following concepts
+At the moment the repository includes the following concepts:
 
 
 ##### How can I help?
