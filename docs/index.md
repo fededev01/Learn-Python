@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ### Learn-Python
 This repository is created to teach to new users to develop 
 In Python. 
