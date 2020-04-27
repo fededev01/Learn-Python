@@ -1,5 +1,6 @@
 # Syntax
 This page will show you some basic rules about Python.
+[Main Page](https://fededev01.github.io/Learn-Python)
 
 ## Indentation
 In other programming languages the indentation in code is for readability only.
