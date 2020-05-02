@@ -1,6 +1,6 @@
 # Index
 In this page you can find the index of the course.
-IF you want go to the main page, click [here](https://fededev01.github.io/Learn-Python)
+If you want go to the main page, click [here](https://fededev01.github.io/Learn-Python)
 
 # Arguments
 [Syntax](https://fededev01.github.io/Learn-Python/ch01_brief-syntax)
