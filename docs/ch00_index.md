@@ -1,5 +1,5 @@
 # Index
-In this page you can find the index of the course.
+In this page you can find the index of the course. Click on the argument that you want learn
 ### Main page
 If you want go to the main page, click [here](https://fededev01.github.io/Learn-Python)
 
