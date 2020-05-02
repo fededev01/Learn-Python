@@ -15,8 +15,8 @@ You can also star this repository if you like the content.
 
 - [Learn Solidity](https://github.com/fededev01/Learn-Solidity)
 - [Learn JavaScript](https://github.com/fededev01/Learn-JavaScript)
-- [Learn SQL](https://github.com/fededev01/learn-sql)
 - [Learn Java](https://github.com/fededev01/Learn-Java)
+- [Learn C](https://github.com/fededev01/Learn-C)
 
 
 #### Code of Conduct
