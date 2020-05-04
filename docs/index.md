@@ -2,7 +2,7 @@
 This repository is created to teach to new users to develop 
 In Python. 
 
-At the moment the repository includes the following concepts:
+You can find all the arguments [here](https://fededev01.github.io/Learn-Python/ch00_index)
 
 
 ##### How can I help?
@@ -13,7 +13,6 @@ You can also star this repository if you like the content.
 
 ##### Similar Repositories 
 
-- [Learn Solidity](https://github.com/fededev01/Learn-Solidity)
 - [Learn JavaScript](https://github.com/fededev01/Learn-JavaScript)
-- [Learn SQL](https://github.com/fededev01/learn-sql)
+- [Learn C](https://github.com/fededev01/Learn-C)
 - [Learn Java](https://github.com/fededev01/Learn-Java)
