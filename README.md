@@ -13,7 +13,6 @@ You can also star this repository if you like the content.
 
 ##### Similar Repositories 
 
-- [Learn Solidity](https://github.com/fededev01/Learn-Solidity)
 - [Learn JavaScript](https://github.com/fededev01/Learn-JavaScript)
 - [Learn Java](https://github.com/fededev01/Learn-Java)
 - [Learn C](https://github.com/fededev01/Learn-C)
