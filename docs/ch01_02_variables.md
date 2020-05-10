@@ -91,18 +91,18 @@ A variable can have a short name (like x and y) or a more descriptive name (age,
 - A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
 Variable names are case-sensitive (age, Age and AGE are three different variables)
 
->> Legal variable names:
-> myvar = "John"
-> my_var = "John"
-> _my_var = "John"
-> myVar = "John"
-> MYVAR = "John"
-> myvar2 = "John"
-> this_is_a_normal_name = "John"
+1. Legal variable names:
+ * myvar = "John"
+ * my_var = "John"
+ * _my_var = "John"
+ * myVar = "John"
+ * MYVAR = "John"
+ * myvar2 = "John"
+ * this_is_a_normal_name = "John"
 
->> Illegal variable names:
-> 2myvar = "John"
-> my-var = "John"
-> my var = "John"
-> 123abc = "John"
-> spaces are not allowed
+2. Illegal variable names:
+ * 2myvar = "John"
+ * my-var = "John"
+ * my var = "John"
+ * 123abc = "John"
+ * spaces are not allowed
