@@ -11,6 +11,7 @@ Variables are containers for storing data values.
 A variable is created the moment you first assign a value to it.
 To assign a variable, use one equals sign.
 Assigning a variable doesn't produce any output at the Python console.
+Variables can be reassigned as many times as you want, in order to change their value.
 
 ### How does it works
 
@@ -34,15 +35,6 @@ And the output will be this:
 10
 ```
 
-Then, if you want print another time the value of x, write this:
-```python
-print(x)
-```
-The output will be 7:
-```output
-7
-```
-
 Note that after the addition x+3, the value assigned to x is 7 yet.
 
 Another example of using variables in Python, is this:
@@ -58,4 +50,36 @@ Output will be:
 John
 ```
 
-As you can see, the variable stores its value throughout the program.
+The variables stores its value throughout the program.
+
+
+## Types
+
+In Python, variables don't have specific types, so you can assign a string to a variable, 
+and later assign an integer to the same variable.
+
+Start by assigning to x a float number
+```python
+x = 123.456
+print(x)
+```
+
+The output of the code below will be the following:
+```output
+123.456
+```
+
+Now, let's assign to x a string
+```python
+>>> x = "This is a string"
+>>> print(x + "!")
+```
+
+The output of the code below will be the following:
+```output
+This is a string!
+```
+
+To avoid mistakes, try to avoid overwriting the same variable with different data types.
+
+## Variables Names
