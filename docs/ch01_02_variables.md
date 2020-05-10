@@ -57,6 +57,7 @@ The variables stores its value throughout the program.
 
 In Python, variables don't have specific types, so you can assign a string to a variable, 
 and later assign an integer to the same variable.
+String variables can be declared either by using single or double quotes:
 
 Start by assigning to x a float number
 ```python
@@ -83,3 +84,24 @@ This is a string!
 To avoid mistakes, try to avoid overwriting the same variable with different data types.
 
 ## Variables Names
+A variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume). Rules for Python variables:
+- A variable name must start with a letter or the underscore character
+- A variable name cannot start with a number
+- A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+Variable names are case-sensitive (age, Age and AGE are three different variables)
+
+>> Legal variable names:
+> myvar = "John"
+> my_var = "John"
+> _my_var = "John"
+> myVar = "John"
+> MYVAR = "John"
+> myvar2 = "John"
+> this_is_a_normal_name = "John"
+
+>> Illegal variable names:
+> 2myvar = "John"
+> my-var = "John"
+> my var = "John"
+> 123abc = "John"
+> spaces are not allowed

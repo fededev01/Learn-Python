@@ -1,6 +1,8 @@
 print('Insert the missing part of the code below to output "Covid19".')
 print("The missing parts are where you see three ellipsis")
 print('...("Covid19"...')
+
+
 user_input1 = input("Insert here your answer to first missing part: \n")
 if user_input1 == "print":
     print("Your answer is correct!")
