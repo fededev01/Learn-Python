@@ -37,6 +37,6 @@ print("Hello, World!")
 
 The output should read:
 
-```
+```output
 Hello, World!
 ```
