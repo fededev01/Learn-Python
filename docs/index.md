@@ -2,7 +2,7 @@
 This repository is created to teach to new users to develop 
 In Python. 
 
-You can find all the arguments [here](https://fededev01.github.io/Learn-Python/ch00_index)
+You can find all the arguments [here](https://fededev01.github.io/Learn-Python/ch00_summary)
 
 
 ##### How can I help?
@@ -13,6 +13,4 @@ You can also star this repository if you like the content.
 
 ##### Similar Repositories 
 
-- [Learn JavaScript](https://github.com/fededev01/Learn-JavaScript)
-- [Learn C](https://github.com/fededev01/Learn-C)
-- [Learn Java](https://github.com/fededev01/Learn-Java)
+[TODO]
