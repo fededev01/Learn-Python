@@ -9,7 +9,7 @@ else:
     print("If you want a hint, input 'hint'")
     print("If you don't want a hint, input 'quit' ")
     print("Obviously, if you'll print 'quit', you have to restart the program")
-    hint = input("Insert here your choice")
+    hint = input("Insert here your choice\n")
     if hint == "hint":
         print("The first correct answer is 'print' ")
     elif hint == "quit":
@@ -27,7 +27,7 @@ else:
     print("If you want a hint, input 'hint'")
     print("If you don't want a hint, input 'quit' ")
     print("Obviously, if you'll print 'quit', you have to restart the program")
-    hint = input("Insert here your choice")
+    hint = input("Insert here your choice\n")
     if hint == "hint":
         print("The first correct answer is 'print' ")
     elif hint == "quit":
