@@ -15,6 +15,7 @@ Variables can be reassigned as many times as you want, in order to change their 
 
 ### How does it works
 
+Let's declare a variable named 'x', assign it a value of 7 and then print the variable value.
 ```python
 x = 7
 print(x)
