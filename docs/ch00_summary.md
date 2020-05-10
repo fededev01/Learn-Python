@@ -5,4 +5,4 @@ If you want go to the main page, click [here](https://fededev01.github.io/Learn-
 
 # Arguments
 - [Brief Syntax](https://fededev01.github.io/Learn-Python/ch01_brief-syntax)
-- [Variables](https://fededev01.github.io/Learn-Python/ch01_brief-syntax))
+- [Variables](https://fededev01.github.io/Learn-Python/ch01_brief-syntax)
