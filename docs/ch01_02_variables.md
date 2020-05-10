@@ -1,6 +1,6 @@
 # Variables
-If you want go to the main page, click [here](https://fededev01.github.io/Learn-Python)
-If you want come back the summary, click [here](https://fededev01.github.io/Learn-Python/ch00_summary)
+If you want go to the main page, click [here](https://fededev01.github.io/Learn-Python).
+If you want come back the summary, click [here](https://fededev01.github.io/Learn-Python/ch00_summary).
 
 ## Introduction
 Variables play a very important role in most programming languages, and Python is no exception. 

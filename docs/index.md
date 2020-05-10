@@ -2,7 +2,7 @@
 This repository is created to teach to new users to develop 
 In Python. 
 
-You can find all the arguments [here](https://fededev01.github.io/Learn-Python/ch00_summary)
+You can find all the arguments [here](https://fededev01.github.io/Learn-Python/ch00_summary).
 
 
 ##### How can I help?
