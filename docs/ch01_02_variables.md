@@ -9,7 +9,8 @@ A variable allows you to store a value by assigning it to a name, which can be u
 to the value later in the program.
 Variables are containers for storing data values.
 A variable is created the moment you first assign a value to it.
-To assign a variable, use one equals sign.
+The equal sign (=) is used to assign a value to a variable. Afterwards, no result is displayed
+before the next interactive prompt.
 Assigning a variable doesn't produce any output at the Python console.
 Variables can be reassigned as many times as you want, in order to change their value.
 
