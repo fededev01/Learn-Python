@@ -31,7 +31,7 @@ else:
     print("Obviously, if you'll print 'quit', you have to restart the program")
     hint = input("Insert here your choice\n")
     if hint == "hint":
-        print("The first correct answer is 'print' ")
+        print("The second correct answer is ')' ")
     elif hint == "quit":
         None   
     else:
