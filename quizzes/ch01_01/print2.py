@@ -29,7 +29,7 @@ else:
     print("If you want a hint, input 'hint'")
     print("If you don't want a hint, input 'quit' ")
     print("Obviously, if you'll print 'quit', you have to restart the program")
-    hint = input("Insert here your choice\n")
+    hint = input("Insert here your choice: \n")
     if hint == "hint":
         print("The second correct answer is ')' ")
     elif hint == "quit":
