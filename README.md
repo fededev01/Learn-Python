@@ -5,6 +5,11 @@ In Python.
 At the moment the repository includes the following concepts:
 
 
+
+## How does it work
+
+
+
 ##### How can I help?
 
 If you believe any information here is erroneous, please report it as an issue or create a pull request. 
