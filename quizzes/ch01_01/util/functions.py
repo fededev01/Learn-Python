@@ -70,3 +70,38 @@ def print3(x,y):
         print("Both your answers are wrong.")                    
     else:
         print("Unknown input.")       
+        
+
+
+def print4(a,b):       
+    if a == 1 and b == 3:   
+        print("Both your answers are correct! Good job! ")
+    elif a == 3 and b == 1:   
+        print("Both your answers are correct! Good job! ") 
+    elif a==1 and b==2:
+        print("Your first answer is correct, but your second is wrong")
+    elif a==3 and b==4:
+        print("Your first answer is correct, but your second is wrong") 
+    elif a==4 and b==2:
+        print("Your first answer is correct, but your second is wrong")   
+    elif a==1 and b==4:
+        print("Your first answer is correct, but your second is wrong")
+    elif a==2 and b==1:
+        print("Your first answer is wrong, but your second is correct")
+    elif a==4 and b==3:
+        print("Your first answer is wrong, but your second is correct") 
+    elif a==2 and b==3:
+        print("Your first answer is wrong, but your second is correct")   
+    elif a==4 and b==1:
+        print("Your first answer is wrong, but your second is correct")  
+    elif a==2 and b==2:
+        print("Are you kidding me?")     
+    elif a==4 and b==4:
+        print("Are you kidding me?")
+    elif a==2 and b==4:
+        print("Both your answers are wrong.")            
+    elif a==4 and b==1:
+        print("Both your answers are wrong.")                    
+    else:
+        print("Unknown input.")
+        
