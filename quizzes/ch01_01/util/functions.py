@@ -2,7 +2,42 @@ def print1(z):
     if z == "print":
         print("Your answer is correct!")
     else:
+        print("Your answer is wrong, come back to study!")  
+
+
+def first_answ(m):
+    if m == "print":
+        print("Your answer is correct!")
+    else:
+        print("Your answer is wrong, come back to study!") 
+        print("If you want a hint, input 'hint'")
+        print("If you don't want a hint, input 'quit' ")
+        print("Obviously, if you'll print 'quit', you have to restart the program")
+        hint = input("Insert here your choice\n")
+        if hint == "hint":
+            print("The first correct answer is 'print' ")
+        elif hint == "quit":
+            None   
+        else:
+            print("Unknown input") 
+            
+            
+def second_answ(n):
+    if n == ")":
+        print("Your answer is correct!")
+    else:
         print("Your answer is wrong, come back to study!")        
+        print("If you want a hint, input 'hint'")
+        print("If you don't want a hint, input 'quit' ")
+        print("Obviously, if you'll print 'quit', you have to restart the program")
+        hint = input("Insert here your choice: \n")
+        if hint == "hint":
+            print("The second correct answer is ')' ")
+        elif hint == "quit":
+            None   
+        else:
+            print("Unknown input")               
+              
 
 def print3(x,y):       
     if x == 1 and y == 4:   
