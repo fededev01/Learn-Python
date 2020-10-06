@@ -55,6 +55,35 @@ John
 The variables stores its value throughout the program.
 
 
+It's possible to assign to multiples variables the same value:
+```python
+x = y = z = 7
+print(x)
+print(y)
+print(z)
+```
+
+The output will be the following:
+```output
+7
+7
+7
+```
+
+Python allows you to assign values to multiple variables in one line:
+```python
+x = y = z = 7, 9, 14
+print(x)
+print(y)
+print(z)
+```
+
+The output will be the following:
+```output
+7
+9
+14
+```
 ## Types
 
 In Python, variables don't have specific types, so you can assign a string to a variable, 
