@@ -1,6 +1,6 @@
 ### Learn-Python
 This repository is created to teach to new users to develop 
-In Python. 
+in Python. 
 
 You can find all the arguments [here](https://fededev01.github.io/Learn-Python/ch00_summary).
 
@@ -14,3 +14,13 @@ You can also star this repository if you like the content.
 ##### Similar Repositories 
 
 [TODO]
+
+
+##### How does it work?
+
+You can find accurate explanations about Python in this website. In GitHub you can find more contents, like [examples](https://github.com/fededev01/Learn-Python/tree/master/examples) and [quizzes](https://github.com/fededev01/Learn-Python/tree/master/quizzes).
+
+#### Code of Conduct
+
+This repository have also a code of conduct, consult it by clicking [here](https://github.com/fededev01/Learn-Python/blob/master/CODE_OF_CONDUCT.md).
+Please, before to interact with the repo, read it.
