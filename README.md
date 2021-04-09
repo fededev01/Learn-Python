@@ -7,8 +7,7 @@ At the moment the repository includes the following concepts:
 
 
 ## How does it work
-
-
+You can find accurate explanations about Python in this website. In GitHub you can find more contents, like [examples](https://github.com/fededev01/Learn-Python/tree/master/examples) and [quizzes](https://github.com/fededev01/Learn-Python/tree/master/quizzes).
 
 ##### How can I help?
 
@@ -17,8 +16,14 @@ I welcome suggestions, feedback and new content, as long as it follows the forma
 You can also star this repository if you like the content.
 
 ##### Similar Repositories 
+[TODO]
 
 
+##### Sources
+
+- [W3Schools](https://www.w3schools.com/python/default.asp)
+- [SoloLearn](https://www.sololearn.com/learning/1073)
+- [Python.org](https://www.python.org/doc/)
 
 #### Code of Conduct
 

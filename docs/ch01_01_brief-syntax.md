@@ -40,3 +40,6 @@ The output should read:
 ```output
 Hello, World!
 ```
+
+### End
+If you want go to the next page (variables), click [here](https://fededev01.github.io/Learn-Python/ch01_02_variables).

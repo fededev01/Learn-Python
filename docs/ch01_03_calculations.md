@@ -1,11 +1,12 @@
 # Calculations
 If you want go to the main page, click [here](https://fededev01.github.io/Learn-Python).
 If you want come back the summary, click [here](https://fededev01.github.io/Learn-Python/ch00_summary).
+If you want go to the next page (variables), click [here](https://fededev01.github.io/Learn-Python/ch01_02_variables).
 
 ## Introduction
 The interpreter acts as a simple calculator: you can type an expression at it and it will write the value. Expression syntax is straightforward: the operators +, -, * and / work just like in most other languages (for example, Pascal or C); parentheses (()) can be used for grouping.
 
-### Example
+## Example
 
 ```python
 (50 - 5*6) / 4
@@ -27,14 +28,5 @@ The output will be the same:
 5.0
 ```
 
-
-
-
-```python
-
-```
-
-The output will be the following:
-```output
-
-```
+### End
+If you want go to the next page (data types), click [here](https://fededev01.github.io/Learn-Python/ch01_04_data-types).

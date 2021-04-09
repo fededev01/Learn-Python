@@ -1,6 +1,7 @@
 # Variables
 If you want go to the main page, click [here](https://fededev01.github.io/Learn-Python).
 If you want come back the summary, click [here](https://fededev01.github.io/Learn-Python/ch00_summary).
+If you want go to the next page (brief syntax), click [here](https://fededev01.github.io/Learn-Python/ch01_01_brief-syntax).
 
 ## Introduction
 Variables play a very important role in most programming languages, and Python is no exception. 
@@ -136,3 +137,6 @@ Variable names are case-sensitive (age, Age and AGE are three different variable
  * my var = "John"
  * 123abc = "John"
  * spaces are not allowed
+
+### End
+If you want go to the next page (calculations), click [here](https://fededev01.github.io/Learn-Python/ch01_03_calculations).
