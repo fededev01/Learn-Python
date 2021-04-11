@@ -30,6 +30,6 @@ You can also star this repository if you like the content.
 This repository have also a code of conduct, consult it by clicking [here](https://github.com/fededev01/Learn-Python/blob/master/CODE_OF_CONDUCT.md).
 Please, before to interact with the repo, read it.
 
-### Code of Conduct
+### LICENSE
 Consult the license by clicking [here](https://github.com/fededev01/Learn-Python/blob/master/LICENSE).
 Please, before to interact with the repo, read it.
